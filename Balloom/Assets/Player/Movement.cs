@@ -7,8 +7,7 @@ public class Movement : MonoBehaviour {
 	public float jumping = 5;
 	public Rigidbody rb;
 	public float forwarding = 5;
-	public Joystick joystick;
-	 
+
 
 	// Use this for initialization
 	void Start () {
