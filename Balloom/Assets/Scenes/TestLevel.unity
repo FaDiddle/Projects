@@ -2771,7 +2771,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1829086450974700, guid: 9c43577a357dcf948908c06dd71f68ff, type: 2}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9c43577a357dcf948908c06dd71f68ff, type: 2}
@@ -3009,7 +3009,6 @@ MonoBehaviour:
   jumping: 30
   rb: {fileID: 1490415410}
   forwarding: 10
-  joystick: {fileID: 0}
 --- !u!54 &1490415410
 Rigidbody:
   m_ObjectHideFlags: 0
